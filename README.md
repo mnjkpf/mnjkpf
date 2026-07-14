@@ -10,6 +10,15 @@ I'm an aspiring Junior Java Developer currently looking for my first full-time o
 - 🚀 Continuously improving my programming skills by building personal projects
 - 💼 Open to Junior Java Developer positions
 
+## Tech Stack
+
+- Java
+- Spring Boot
+- PostgresSql
+- Git & GitHub
+- Maven
+
+
 ## Current Projects
 
 - 🔹 Project Name — Short description
