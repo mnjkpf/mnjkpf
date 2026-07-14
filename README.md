@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Roman Tymanskyi👋
 
-<!--
-**mnjkpf/mnjkpf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring Junior Java Developer currently looking for my first full-time opportunity.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Studying Computer Science at the University of Opole
+- 📚 Completed 3 years of studies, with one semester remaining
+- ☕ Focused on Java and backend development
+- 🚀 Continuously improving my programming skills by building personal projects
+- 💼 Open to Junior Java Developer positions
+
+## Current Projects
+
+- 🔹 Project Name — Short description
+- 🔹 Project Name — Short description
+- 🔹 Project Name — Short description
+
+## Contact
+
+- LinkedIn: [Your LinkedIn]
+- Email: [Your Email]
