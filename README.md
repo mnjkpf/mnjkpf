@@ -14,6 +14,4 @@
 https://github.com/mnjkpf/JobTracker
 
 
-## Contact
 
-- Email: [Your Email]
