@@ -10,9 +10,8 @@
 
 ## Current Projects
 
-- 🔹 Project Name — Short description
-- 🔹 Project Name — Short description
-- 🔹 Project Name — Short description
+- 🔹  JobTracker — AI-powered job application tracker with cross-interview learning through RAG
+
 
 ## Contact
 
