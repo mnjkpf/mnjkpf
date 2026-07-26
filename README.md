@@ -11,6 +11,7 @@
 ## Current Projects
 
 - 🔹  JobTracker — AI-powered job application tracker with cross-interview learning through RAG
+https://github.com/mnjkpf/JobTracker
 
 
 ## Contact
