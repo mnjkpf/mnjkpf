@@ -26,3 +26,5 @@ Chrome extension with interactive subtitles (SRT/VTT) and on-demand AI translati
 `JavaScript` `HTML/CSS` `External APIs`
 
 ---
+![Stats](https://github-readme-stats.vercel.app/api?username=mnjkpf&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mnjkpf&layout=compact&theme=tokyonight&hide_border=true)
