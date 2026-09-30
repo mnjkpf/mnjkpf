@@ -28,3 +28,4 @@ Chrome extension with interactive subtitles (SRT/VTT) and on-demand AI translati
 ---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mnjkpf&layout=compact&theme=tokyonight&hide_border=true)
+![Profile views](https://komarev.com/ghpvc/?username=mnjkpf&label=Profile%20views&color=1f6feb&style=flat-square)
