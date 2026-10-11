@@ -17,9 +17,13 @@
 
 ## 🚀 Projects
 
-### 🔹 [JobTracker](https://job-tracker-six-flame.vercel.app/)
+### 🔹 [JobTracker](https://job-tracker.xyz/)
 AI-powered job application tracker with a Kanban workflow and cross-interview learning via RAG.
 `Java 21` `Spring Boot` `PostgreSQL + pgvector` `Redis` `JPA/Hibernate` `Docker` `JUnit`
+
+### 🔹 [Waylo](https://www.waylo.space)
+Microservices travel planner: async Kafka-based route planning with live updates via SSE, geospatial place search and a photo gallery.
+`Java 21` `Spring Boot` `Kafka` `PostgreSQL + PostGIS` `Redis` `Docker` `Angular`
 
 ### 🔹 [Stream-Translate](https://github.com/mnjkpf/Stream-Translate)
 Chrome extension with interactive subtitles (SRT/VTT) and on-demand AI translation, with caching and a personal word book.
